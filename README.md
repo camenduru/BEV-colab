@@ -18,7 +18,7 @@ https://arxiv.org/abs/2112.08274
 https://www.yusun.work/BEV/BEV.html
 
 ### 🖼 Output
-
+![2bac4e76-51bf-46f8-94be-6f0dae7bd7fc](https://github.com/camenduru/BEV-colab/assets/54370274/638d28eb-d04d-40f3-8dfc-858162ee96d0)
 
 ### 🏢 Sponsor
 https://modelslab.com
